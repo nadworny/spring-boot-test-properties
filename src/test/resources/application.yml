@@ -1,0 +1,4 @@
+test: "this"
+document-types:
+  de_DE:
+    REPORT: ["Test"]
